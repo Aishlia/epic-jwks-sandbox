@@ -1,0 +1,19 @@
+.well-known/jwks.json
+  s_5134adacd6dd89::t_a18f4f67f6075d 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a4112a466a262d8f15c226e14be9d1142da4b1c1",
+  "prompts": {},
+  "sessions": {
+    "s_5134adacd6dd89": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "035ef4d6-18e1-41ff-ac92-d9fcd6f5e2e9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Julia Nai <nai.julia@gmail.com>"
+    }
+  }
+}
